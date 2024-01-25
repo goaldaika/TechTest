@@ -13,6 +13,9 @@
   - Moq
   - EF Core
 
+- **Deployment**
+  - Azure
+
 ## Application Structure
 
 The application consists of 9 API methods:
